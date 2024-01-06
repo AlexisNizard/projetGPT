@@ -1,0 +1,100 @@
+
+// Sortie des vedettes de JeuxDeMots (JDM-LEXICALNET-FR/20231214-LEXICALNET-JEUXDEMOTS-ENTRIES-MWE.txt)
+// Date : Thursday 14th of December 2023 10:09:46 AM
+// Contact : mathieu.lafourcade@lirmm.fr
+// Web : http://www.jeuxdemots.org
+// Mathieu Lafourcade / LIRMM / Université de Montpellier / 2007-2020 
+// This contents is Public Domain (C0) / Le contenu de ce fichier est domaine public (licence C0) 
+ 
+// Format :
+// id;terme;{terme formatté};
+
+
+9;"avant toute chose";
+15;"sir Sacheverell Sitwell";
+16;"Maria Callas";
+21;"Marcel Gotlieb Gotlib";
+23;"art et architecture catalans";
+24;"American Friends Service Committee";
+32;"Alexander Roslin";
+39;"représentation nationale";
+44;"Phaseolus vulgaris";
+46;"Serment des Horaces";
+51;"Moshe Ben Maimon";
+53;"par réduction";
+54;"Robert Surcouf";
+56;"tache de rousseur";
+61;"sans importance";
+65;"Sophie Rostopchine";
+67;"Stem Cell Factor";
+73;"amande de terre";
+78;"rime milliardaire";
+83;"Par la Révolution la Paix";
+87;"ergonomie de conception";
+98;"Docteur Faustus";
+100;"Athènes antique";
+103;"bien luné";
+104;"clos de haies";
+105;"dôme de sel";
+112;"peu à peu";
+118;"The Ruined Cottage";
+123;"La Prise de Milet";
+154;"Jan Lenica";
+157;"Émile Bernard";
+158;"Le Prélude";
+160;"la Grande Pâque russe";
+164;"vaisseau spatial";
+169;"Nicolas Schöffer";
+170;"Yan Liben";
+172;"église Saint-Nicolas du Petit Côté";
+188;"premier pinistre";
+189;"musée des Monuments français";
+190;"second souffle";
+202;"chaud lapin";
+213;"langages de programmation";
+214;"Zij al-Sindhind";
+218;"régler son compte";
+220;"se défiler";
+221;"être démodé";
+224;"Karl Hermann Frank";
+225;"réfugiés et apatrides";
+234;"porte à porte";
+240;"Gil Robles";
+244;"San Stefano";
+258;"ab intestat";
+263;"trait de courage";
+265;"Marie et Pierre Curie";
+268;"en définitive";
+281;"A Better Class of Person: an autobiography 1929-1956";
+316;"la barbe";
+317;"Hard to Handle";
+323;"Pluie, Vapeur, Vitesse";
+332;"Vitus Béring";
+333;"hauts barons";
+337;"en ce temps-là";
+340;"flux lumineux";
+350;"Süss Oppenheimer";
+351;"saint Antoine de Padoue";
+352;"aphasies de conductibilité";
+356;"se mettre à plat ventre devant";
+361;"de travers";
+362;"Anthémios de Tralles";
+365;"tenir la place";
+366;"Jean Angot";
+368;"Sur le matin de la nativité du Christ";
+372;"loin que";
+376;"folie érotique";
+378;"être persuadé";
+383;"mare aux canards";
+387;"Charles XII de Suède";
+395;"Friedrich Alfred Krupp";
+403;"Étienne III le Grand";
+407;"tuyau de poêle";
+412;"se faisander";
+418;"Sophie Germain";
+420;"Sésostris II";
+427;"Fernand Cortez";
+430;"modeler sur";
+432;"Karl Polanyi";
+438;"main de maître";
+443;"Jacques Becker";
